@@ -69,7 +69,7 @@ similarity score index, and the top five recommendations will be shown.
 
 * [PyQt5](https://pypi.org/project/PyQt5/) - The GUI framework used
 
-## Authors
+<!-- ## Authors
 
 * **Nishant Pandey** - [unexh](https://github.com/unexh)
-* **Sehajbir Thind** - [SehajbirThind](https://github.com/SehajbirThind)
+* **Sehajbir Thind** - [SehajbirThind](https://github.com/SehajbirThind) -->
